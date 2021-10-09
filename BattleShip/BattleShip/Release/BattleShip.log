@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\tunca\source\repos\BattleShip\BattleShip\Source.cpp(28,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\tunca\source\repos\BattleShip\BattleShip\Source.cpp(29,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\tunca\source\repos\BattleShip\BattleShip\Source.cpp(30,15): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  2 of 27 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BattleShip.vcxproj -> C:\Users\tunca\source\repos\BattleShip\Release\BattleShip.exe
